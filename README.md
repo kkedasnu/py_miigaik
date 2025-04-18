@@ -43,8 +43,8 @@
 
 1. **Клонировать репозиторий:**
 ```bash
-git clone https://github.com/kkedasnu/rss-keywords-tracker.git
-cd rss-keywords-tracker
+git clone https://github.com/kkedasnu/py_miigaik.git
+cd py_miigaik
 ```
 
 2. **Создать и активировать виртуальное окружение:**
